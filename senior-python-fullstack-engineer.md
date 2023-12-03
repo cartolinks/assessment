@@ -162,12 +162,8 @@ the box.
 
 ## Interview process
 
-The interview team joins the Slack channel. The team consists of the engineers
-who will be working with you. Ask them about the engineering culture, work and
-life balance, or anything else that you would like to learn about Teleport.
-
 Before writing the actual code, create a brief design document and share with
-the team. At Teleport, we prefer Markdown for
+the team. At Cartolinks, we prefer Markdown for
 [our designs](https://github.com/gravitational/teleport/blob/master/rfd/0000-rfds.md).
 
 This document should include:
@@ -198,17 +194,6 @@ Split your code submission into a series of pull requests that are easy for the
 team to review in a single sitting. A good “rule of thumb” is to aim to complete
 the project in 3-4 PRs.
 
-Our team will do their best to provide a high quality review of the submitted
-pull requests in a reasonable time frame. You are spending your time on this, we
-are going to contribute our time too.
-
-After the final submission, the interview team will assemble and vote using +1,
--2 anonymous voting system: +1 is submitted whenever a team member accepts the
-submission, -2 otherwise. In case of a positive result, we will connect you to
-our HR and recruiting teams, who will work out the details and present an offer.
-
-In case of a negative score result, the hiring manager will contact you and send
-a list of key observations from the team that affected the result.
 
 ## Code and project ownership
 
@@ -233,7 +218,7 @@ These are the areas we will be evaluating in the submission:
   clear errors and not crash under non-critical conditions.
 * Ensure that your app is secure.
 
-The primary factor in the team's decision is overall code quality. We are looking for
+The primary factor in the decision is overall code quality. We are looking for
 the highest possible quality with the smallest possible scope that meets the requirements
 of the challenge.
 
@@ -279,20 +264,6 @@ submission. You will be evaluated on the following criteria:
 
 ## Questions
 
-It is OK to ask the interview team questions. Some folks stay away from asking
-questions to avoid appearing less experienced, so we provide examples of
-questions to ask and questions we expect candidates to figure out on their own.
-
-Here is a great question to ask:
-
-> Is it OK to pre-generate secret data, like a password hash, and put it in the
-> repository for a proof of concept? I will add a note that we will
-> auto-generate secrets in the future.
-
-It demonstrates that you thought about this problem domain, recognize the trade
-off and are saving you and the team time by not implementing it.
-
-This is the question we expect candidates to figure out on their own:
 
 > What version of Python should I use? What dependency manager should I use?
 
