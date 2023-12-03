@@ -27,8 +27,7 @@ In this challenge, you will build an application that allows a user to browse
 directory content on a remote server. Think Google Drive, Dropbox, or even
 GitHub's file browser.
 
-<img src="./assets/google.jpg" height="300" />
-<img src="./assets/github.jpg" height="200" />
+<img src="./google.jpg" height="300" />
 
 When you are ready to begin, we will invite you to a GitHub repository where you
 will collaborate with a few members of the team on the challenge. The repository
