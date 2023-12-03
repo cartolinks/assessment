@@ -15,12 +15,12 @@ We believe this technique is not only better but also more fun compared to
 whiteboard/quiz interviews so common in the industry. It’s not without the
 downsides - it could take longer than traditional interviews. That said, it's
 our view that this type of challenge gives us a more accurate assessment of your
-ability to work well on the types of projects we’re working on day-to-day here
-at Teleport. [Some of the best teams use coding
+ability to work well on the types of projects we’re working on day-to-day here. [Some of the best teams use coding
 challenges](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/). We
 appreciate your time and are looking forward to hacking on this project
 together.
 
+When you are done with your code add the github username: cartolinks to the github project and also submit it via the google form
 ## Summary
 
 In this challenge, you will build an application that allows a user to browse
@@ -44,7 +44,7 @@ selected tools that align with our internal development environment.
 * The backend API is written in Python
 * The frontend is a React app written in TypeScript
 
-At Teleport, we use [styled components](https://styled-components.com) for
+At Carolinks, we use [styled components](https://styled-components.com) for
 styling, but you are not required to use them for this challenge.
 
 
@@ -157,8 +157,6 @@ purposes.
 
 Please do not use a third party solution that provides authentication out of
 the box.
-
-# Guidance
 
 ## Interview process
 
