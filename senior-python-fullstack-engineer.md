@@ -160,8 +160,7 @@ the box.
 
 ## Interview process
 
-Before writing the actual code, create a brief design document and share with
-the team. At Cartolinks, we prefer Markdown for
+Before writing the actual code, create a brief design document attach the design document to your git repo. At Cartolinks, we prefer Markdown for
 [our designs](https://github.com/gravitational/teleport/blob/master/rfd/0000-rfds.md).
 
 This document should include:
