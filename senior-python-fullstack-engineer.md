@@ -29,11 +29,7 @@ GitHub's file browser.
 
 <img src="./google.jpg" height="300" />
 
-When you are ready to begin, we will invite you to a GitHub repository where you
-will collaborate with a few members of the team on the challenge. The repository
-has some starter code to save you some time in bootstrapping a project. You are
-welcome to replace any of this code if you choose, so long as you continue to
-meet the requirements of the challenge.
+You are to use python on the backend and react on the frontend. create a design doc as part of your repository code
 
 ## Tools
 
